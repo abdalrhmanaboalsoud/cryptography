@@ -1,0 +1,10 @@
+exceptiongroup==1.2.1
+g==0.0.5
+iniconfig==2.0.0
+packaging==24.1
+pluggy==1.5.0
+pyasn1==0.6.0
+pycryptodome==3.20.0
+pytest==8.2.2
+rsa==4.9
+tomli==2.0.1
